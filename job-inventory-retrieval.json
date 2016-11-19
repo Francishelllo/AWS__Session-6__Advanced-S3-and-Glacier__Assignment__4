@@ -1,0 +1,5 @@
+{
+  "Type": "inventory-retrieval",
+  "Description": "Inventory of archive Created on 2015-11-1",
+  "SNSTopic": "Give_arn_of_your_sns_topic_here"
+}
